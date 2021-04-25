@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/static/js/main.201d3567.chunk.js",
-    "main.js.map": "/static/js/main.201d3567.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.db304881.js",
-    "runtime-main.js.map": "/static/js/runtime-main.db304881.js.map",
-    "static/js/2.2f840922.chunk.js": "/static/js/2.2f840922.chunk.js",
-    "static/js/2.2f840922.chunk.js.map": "/static/js/2.2f840922.chunk.js.map",
-    "static/js/3.abaea60f.chunk.js": "/static/js/3.abaea60f.chunk.js",
-    "static/js/3.abaea60f.chunk.js.map": "/static/js/3.abaea60f.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.2f840922.chunk.js.LICENSE.txt": "/static/js/2.2f840922.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+    "main.css": "/satisfactory-calculator/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/satisfactory-calculator/static/js/main.201d3567.chunk.js",
+    "main.js.map": "/satisfactory-calculator/static/js/main.201d3567.chunk.js.map",
+    "runtime-main.js": "/satisfactory-calculator/static/js/runtime-main.0fea5a8a.js",
+    "runtime-main.js.map": "/satisfactory-calculator/static/js/runtime-main.0fea5a8a.js.map",
+    "static/js/2.2f840922.chunk.js": "/satisfactory-calculator/static/js/2.2f840922.chunk.js",
+    "static/js/2.2f840922.chunk.js.map": "/satisfactory-calculator/static/js/2.2f840922.chunk.js.map",
+    "static/js/3.abaea60f.chunk.js": "/satisfactory-calculator/static/js/3.abaea60f.chunk.js",
+    "static/js/3.abaea60f.chunk.js.map": "/satisfactory-calculator/static/js/3.abaea60f.chunk.js.map",
+    "index.html": "/satisfactory-calculator/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/satisfactory-calculator/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2f840922.chunk.js.LICENSE.txt": "/satisfactory-calculator/static/js/2.2f840922.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/satisfactory-calculator/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.db304881.js",
+    "static/js/runtime-main.0fea5a8a.js",
     "static/js/2.2f840922.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
     "static/js/main.201d3567.chunk.js"
