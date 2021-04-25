@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/satisfactory-calculator/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/satisfactory-calculator/static/js/main.a9116b7c.chunk.js",
-    "main.js.map": "/satisfactory-calculator/static/js/main.a9116b7c.chunk.js.map",
+    "main.js": "/satisfactory-calculator/static/js/main.16865096.chunk.js",
+    "main.js.map": "/satisfactory-calculator/static/js/main.16865096.chunk.js.map",
     "runtime-main.js": "/satisfactory-calculator/static/js/runtime-main.0fea5a8a.js",
     "runtime-main.js.map": "/satisfactory-calculator/static/js/runtime-main.0fea5a8a.js.map",
     "static/js/2.2f840922.chunk.js": "/satisfactory-calculator/static/js/2.2f840922.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.0fea5a8a.js",
     "static/js/2.2f840922.chunk.js",
     "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.a9116b7c.chunk.js"
+    "static/js/main.16865096.chunk.js"
   ]
 }
