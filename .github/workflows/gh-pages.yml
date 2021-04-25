@@ -1,0 +1,32 @@
+name: github pages
+
+on:
+  push:
+    branches:
+    - main
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-20.04
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: setup node
+      uses: actions/setup-node@v1
+      with:
+        node-version: '15.14.0'
+
+    - name: install
+      run: yarn install
+
+    - name: build
+      run: yarn build
+    
+    - name: move
+      run: mv ./web/build ./docs
+
+    - name: deploy
+      uses: shassbeleth/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./docs
