@@ -7,7 +7,6 @@ services:
     container_name: satisfactory_calculator
     volumes:
       - ./web/:/usr/src/web
-      - ./docs/:/usr/src/web/build
     ports:
       - 3333:3000
     tty: true
